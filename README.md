@@ -1,4 +1,4 @@
-# roon-on-wine-automation# roon-on-wine-automation
+# roon-on-wine-automation
 
 Use this script at your own risk!
 
