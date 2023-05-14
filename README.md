@@ -10,5 +10,5 @@ The following things are done:
 * A backup of the directory `my_roon_instance` is created.
 * A backup of the script `start_my_roon_instance.sh` is created.
 * The latest version of [roon-on-wine](https://github.com/RoPieee/roon-on-wine) is installed.
-* The previous Roon settings and the start script are restored.
+* The previous Roon Remote settings and the start script are restored.
 
